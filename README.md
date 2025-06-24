@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+      <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/><br>Excel
       </a>
     </td>
@@ -42,7 +42,7 @@
     </td>
     <td align="center">
       <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" alt="SPSS"/><br>SPSS
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_logo.svg" alt="SPSS" width="60"/><br>SPSS
       </a>
     </td>
     <td align="center">
