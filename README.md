@@ -42,7 +42,7 @@
     </td>
     <td align="center">
       <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_logo.svg" alt="SPSS"/><br>SPSS
+        <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" alt="SPSS"/><br>SPSS
       </a>
     </td>
     <td align="center">
