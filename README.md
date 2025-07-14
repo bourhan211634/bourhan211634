@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<!-- HEADER BANNER -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C47E&width=700&center=true&vCenter=true&lines=Hi+there%2C+I+am+Md.+Bourhan+Hossan!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Data+Analysis+%7C+Statistics+%7C+Machine+Learning;Data+Science;Let%E2%80%99s+connect+%26+collaborate+%F0%9F%A4%9D;Thanks+for+visiting+my+profile+%F0%9F%99%8F" 
+    alt="Typing SVG"
+/>
+</p>
+
 
 
 
